@@ -1,5 +1,5 @@
 [programs.localnet]
-solana_message = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+solana_message = "4wwLDEhPhptcyMjJrFqsSVgTPfjKwMa5oddUZVqmuYHE"
 
 [registry]
 url = "https://anchor.projectserum.com"

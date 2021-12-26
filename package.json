@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "@project-serum/anchor": "^0.18.2"
+        "@project-serum/anchor": "^0.19.1-beta.1"
     },
     "devDependencies": {
         "chai": "^4.3.4",
